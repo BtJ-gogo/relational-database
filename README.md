@@ -1,13 +1,13 @@
 # Repository for Relational Database  
-1. Celestial Bodies Database
+1. Celestial Bodies Database  
    Build a database of celestial bodies using PostgreSQL.
-3. World Cup Database
+3. World Cup Database  
     Bash script that enters information from World Cup games into PostgreSQL, then query the database for useful statistics.
-4. Salon Appointment Scheduler
+4. Salon Appointment Scheduler  
    An interactive Bash program that uses PostgreSQL to track the customers and appointments.
-5. Periodic Table Database
+5. Periodic Table Database  
    Bash a script to get information about chemical elements from a periodic table database
-6. Number Guessing Game
+6. Number Guessing Game  
    Use Bash scripting, PostgreSQL, and Git to create a number guessing game.
 
 # Acknowledgments
